@@ -1,0 +1,2 @@
+#zeroes the rotation of joints - impossible to do in the UI
+joint -s -zso
